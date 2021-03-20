@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AJEETTHAKUR
+- 👋 Hi, I’m @AJEETKUMAR
 - 👀 I’m interested in JAVA ,PYTHON ,C++ ,NODEJS 
 - 🌱 I love learning new softskills and open to work with contributers.
 - 💞️ I’m looking to collaborate on OPEN SOURCE PROJECTS
